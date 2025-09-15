@@ -1,3 +1,6 @@
 /.vs
 /debug
 /obj
+/sayhello/.vs
+/sayhello/sayhello/bin/Debug/net8.0
+/sayhello/sayhello/obj
